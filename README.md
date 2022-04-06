@@ -27,4 +27,5 @@
 <!-- ![](https://img.shields.io/badge/-Lua-2C2D72?logo=lua&logoColor=white) -->
 <!-- ![](https://img.shields.io/badge/--?logo=&logoColor=white) -->
 
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tappitikarrass&theme=github_dark&layout=compact&exclude_repo=dotfiles)
+<!-- ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tappitikarrass&theme=github_dark&layout=compact&exclude_repo=dotfiles)
+ -->
