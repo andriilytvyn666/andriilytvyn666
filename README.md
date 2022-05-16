@@ -1,12 +1,12 @@
 ### Hi there 👋
 ![](https://img.shields.io/badge/-Currently%20using-181818?logo=&logoColor=white)
 ![](https://img.shields.io/badge/-Arch%20Linux-1793D1?logo=archlinux&logoColor=white)
-![](https://img.shields.io/badge/-AwesomeWM-535D6C?logo=awesomewm&logoColor=white)
+![](https://img.shields.io/badge/-dwm-1177AA?logo=dwm&logoColor=white)
 ![](https://img.shields.io/badge/-Firefox-FF7139?logo=firefoxbrowser&logoColor=white)
 <br>
 ![](https://img.shields.io/badge/-Was%20using-181818?logo=&logoColor=white)
 ![](https://img.shields.io/badge/-Gentoo-54487A?logo=gentoo&logoColor=white)
-![](https://img.shields.io/badge/-dwm-1177AA?logo=dwm&logoColor=white)
+![](https://img.shields.io/badge/-AwesomeWM-535D6C?logo=awesomewm&logoColor=white)
 
 ![](https://img.shields.io/badge/-Tools-181818?logo=&logoColor=white)
 ![](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
