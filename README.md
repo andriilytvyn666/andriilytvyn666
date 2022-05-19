@@ -8,6 +8,11 @@
 ![](https://img.shields.io/badge/-Gentoo-54487A?logo=gentoo&logoColor=white)
 ![](https://img.shields.io/badge/-AwesomeWM-535D6C?logo=awesomewm&logoColor=white)
 
+![](https://img.shields.io/badge/-Learning-181818?logo=&logoColor=white)
+![](https://img.shields.io/badge/-C%23-239120?logo=CSharp&logoColor=white)
+![](https://img.shields.io/badge/-Visual%20Studio-5C2D91?logo=VisualStudio&logoColor=white)
+![](https://img.shields.io/badge/-.NET-512BD4?logo=dotnet&logoColor=white)
+<br>
 ![](https://img.shields.io/badge/-Tools-181818?logo=&logoColor=white)
 ![](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
