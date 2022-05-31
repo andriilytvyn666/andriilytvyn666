@@ -1,12 +1,4 @@
 ### Hi there 👋
-![](https://img.shields.io/badge/-Currently%20using-181818?logo=&logoColor=white)
-![](https://img.shields.io/badge/-Arch%20Linux-1793D1?logo=archlinux&logoColor=white)
-![](https://img.shields.io/badge/-dwm-1177AA?logo=dwm&logoColor=white)
-![](https://img.shields.io/badge/-Firefox-FF7139?logo=firefoxbrowser&logoColor=white)
-<br>
-![](https://img.shields.io/badge/-Was%20using-181818?logo=&logoColor=white)
-![](https://img.shields.io/badge/-Gentoo-54487A?logo=gentoo&logoColor=white)
-![](https://img.shields.io/badge/-AwesomeWM-535D6C?logo=awesomewm&logoColor=white)
 
 ![](https://img.shields.io/badge/-Learning-181818?logo=&logoColor=white)
 ![](https://img.shields.io/badge/-C%23-239120?logo=CSharp&logoColor=white)
@@ -25,6 +17,15 @@
 
 ![](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![](https://img.shields.io/badge/-Flask-181818?logo=flask&logoColor=white)
+
+![](https://img.shields.io/badge/-Currently%20using-181818?logo=&logoColor=white)
+![](https://img.shields.io/badge/-Widows%2011-0078D6?logo=microsoft&logoColor=white)
+![](https://img.shields.io/badge/-Arch%20Linux-1793D1?logo=archlinux&logoColor=white)
+![](https://img.shields.io/badge/-dwm-1177AA?logo=dwm&logoColor=white)
+<br>
+![](https://img.shields.io/badge/-Was%20using-181818?logo=&logoColor=white)
+![](https://img.shields.io/badge/-Gentoo-54487A?logo=gentoo&logoColor=white)
+![](https://img.shields.io/badge/-AwesomeWM-535D6C?logo=awesomewm&logoColor=white)
 
 ![](https://img.shields.io/badge/-Contact%20me-181818?logo=&logoColor=white)
 [![](https://img.shields.io/badge/-Gmail-EA4335?logo=gmail&logoColor=white)](mailto:lytvyn.andrii.contact@gmail.com)
