@@ -17,3 +17,4 @@
 
 <!-- ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tappitikarrass&theme=github_dark&layout=compact&exclude_repo=dotfiles,dwm,dmenu) -->
 
+![](https://c.tenor.com/OjCFiYbkO7QAAAAi/naruto-dance.gif)
