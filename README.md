@@ -1,7 +1,7 @@
 ### Hi there 👋
  
 [![](https://img.shields.io/badge/-Email-EA4335?logo=gmail&logoColor=white)](mailto:lytvyn.andrii.contact@gmail.com)
-[![](https://img.shields.io/badge/-Website%20-0076D6?logo=internetexplorer&logoColor=white)](https://tappitikarrass.github.io)
+[![](https://img.shields.io/badge/-Website%20-0076D6?logo=internetexplorer&logoColor=white)](https://andriilytvyn666.github.io)
 
 | Category          | Badges                                                                                                                                                                                                                                                                                                                                                     |
 |-----------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
